@@ -1,5 +1,5 @@
 {
-  "name": "@anu/is-git-init",
+  "name": "is-git-init",
   "version": "1.0.0",
   "description": "Check if git has been initialized in a repo.",
   "main": "index.js",

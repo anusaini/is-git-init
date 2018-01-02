@@ -14,7 +14,7 @@ Check if git has been initialized in a repo.
 
 ```javascript
 
-    const isGitInit = require('@anu/is-git-init');
+    const isGitInit = require('is-git-init');
     isGitInit();
 
 ```
